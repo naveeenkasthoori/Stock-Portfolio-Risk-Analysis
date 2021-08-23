@@ -1,4 +1,4 @@
-# Quantitative Analysis
+# Stock Portfolio Risk Analysis
 I'll add more projects that I have been working  for past 12 months, Most of the projects either I practiced or client projects. I upload it if my client doesn't have any objection about it.
 Introduction about The Project
 In a fast moving world, everybody busy with the work or business. A human cannot focus multiple things at one time. Even if we do, It wont be as efficient as focusing one particular task. Everybody wants to create wealth, But they cant find time to do the analysis to make the investment decisions. Thats where we are stepping in and helping our clients to give suggestions to make investment decision.
